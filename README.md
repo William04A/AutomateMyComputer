@@ -31,6 +31,15 @@ Hold down the shift tangent the same time as you right-click your new folder. No
 We are now going to use CMD, the Windows terminal to do a few things. Press the Windows key and the letter "S" on your keyboard at the same time to get to the Windows search interface. You can also tap the "Search" button on your taskbar. Search for "cmd" and click on the terminal window icon.
 
 Once the window opens, type "pip install pyautogui" and wait for the installation to complete.
-Next, close cmd and hit the Windows and "R" key at the same time. Type "shell:config" and press enter.
-After that, right-click and choose New>Shortcut. Find the folder where AutomateMyComputer is.
+Next, close cmd and hit the Windows and "R" key at the same time. Type "shell:autostart" and press enter.
+After that, right-click and choose New>Shortcut. Find the folder where AutomateMyComputer is. Press the file named "AutomateMyComputer x.x.py". Now, you are good to go and you can use AutomateMyComputer. To verify that everything is working correctly, you can try to run the AutomateMyComputer file. After a few seconds, you should see "Action already activated" being printed out in the window that just opened. AutomateMyComputer will continue to check after updates in the background and you can click the "Hide" button to minimize the application. Don´t close it!
+**Please note: if AutomateMyComputer runs for a while and the closes or starts and then rapidly closes, something might be wrong. If so, please make sure that you´ve followed all the steps above or submit a new issue.**
+
+## Connecting with IFTTT:
+AutomateMyComputer works with IFTTT´s Dropbox integration as it is connected to the cloud-synced Dropbox folder on your computer. If you want to quickly get started, you can check out these pre-made IFTTT recipes for AutomateMyComputer:
+
+https://ifttt.com/hello_world_63dc2ae5f3
+
+
+
 **Writing will be continued later.**
