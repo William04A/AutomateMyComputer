@@ -1,6 +1,6 @@
 # AutomateMyComputer
 A super simple way to automate actions on your computer via IFTTT or other services. Application written in Python.
-
+**Please note: The documentation is not fully written (yet). I will update it in the future.**
 ## Intro & Info:
 A few months ago I found AssistantComputerControl (https://github.com/AlbertMN/AssistantComputerControl) after trying several ways to automate my computer. I must credit the developer AlbertMN for doing such a wonderful application. However, I wanted something a little bit more open. AssistantComputerControl only supports voice assistants. AutomateMyComputer supports every application you can think of, if you make an integration for it. **AutomateMyComputer has support for all IFTTT apps** if you don´t want to code a custom integration. I also wanted my version to a be a little more well-documented.
 
