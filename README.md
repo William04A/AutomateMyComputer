@@ -1,3 +1,7 @@
+_______________
+### Are you ready for AutomateMyComputer 2.0?
+An open-source scripting service that takes automating your computer far beyond just IFTTT.
+_______________
 # AutomateMyComputer
 A super simple way to automate actions on your computer via IFTTT or other services. Application written in Python.
 **Please note: The documentation is not fully written (yet). I will update it in the future.**
